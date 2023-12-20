@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  MyFarm German_Words
+*/
+
+"Text1" = "Hallo! Willkommen zur unserer App!";
+"Text2" = "MyFarm";
+"Text3" = "Registrieren";
+"Text4" = "Sie haben bereits einen Account?";
+"Text5" = "Hier schnell einloggen!";
+"Text6" = "Anmelden";
+"Text7" = "Registrieren";
+
+
+"GREETING_6" = "Hey! Schön, dass du dabei bist!";
+"GREETING_7" = "Hi! Erlebe unsere App voll und ganz!";
+"GREETING_8" = "Hallo! Freut mich, dich begrüßen zu dürfen!";
+"GREETING_9" = "Hallo! Mach es dir mit der App gemütlich!";
+"GREETING_10" = "Guten Tag! Entdecke, was unsere App bietet!";
+
+"FAREWELL_1" = "Tschüss! Danke für die Nutzung unserer App!";
+"FAREWELL_2" = "Auf Wiedersehen! Wir danken dir für die Nutzung!";
+"FAREWELL_3" = "Bis später! Danke, dass du bei uns warst!";
+"FAREWELL_4" = "Pass auf dich auf! Vielen Dank für deine Zeit!";
+"FAREWELL_5" = "Bis zum nächsten Mal! Deine Unterstützung bedeutet viel!";
+"FAREWELL_6" = "Bis bald! Wir schätzen deine Unterstützung!";
+"FAREWELL_7" = "Adios! Danke, dass du unsere App gewählt hast!";
+"FAREWELL_8" = "Bis dann! Deine Anwesenheit wurde geschätzt!";
+"FAREWELL_9" = "Auf Wiedersehen! Dein Feedback macht uns besser!";
+"FAREWELL_10" = "Mach's gut! Deine Zufriedenheit treibt uns an!";

@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MyFarm French_Words
+  */
+"Text1" = "Bonjour! Bienvenue dans notre application!";
+"Text2" = "Ma ferme";
+"Text3" = "enregistrer";
+"Text4" = "Vous avez déjà un compte.";
+"Text5" = "se connecter rapidement";
+"Text6" = "Se connecter";
+"Text7" = "S'inscrire";
+
+
+"GREETING_6" = "Salut! Profitez au maximum de l'application!";
+"GREETING_7" = "Bienvenue à bord! Plongez dans les fonctionnalités de l'application!";
+"GREETING_8" = "Yo! Préparez-vous à une expérience délicieuse!";
+"GREETING_9" = "Salut, l'ami! Explorez et profitez de l'application!";
+"GREETING_10" = "Salut! Découvrez ce que l'application a à offrir!";
+
+"FAREWELL_1" = "Au revoir! Merci d'avoir utilisé notre application!";
+"FAREWELL_2" = "Adieu! Nous vous remercions d'avoir utilisé l'application!";
+"FAREWELL_3" = "À bientôt! Merci d'avoir été avec nous!";
+"FAREWELL_4" = "Prenez soin de vous! Merci pour votre temps avec nous!";
+"FAREWELL_5" = "À la prochaine! Votre soutien signifie beaucoup!";
+"FAREWELL_6" = "Bye pour le moment! Nous sommes reconnaissants pour votre soutien!";
+"FAREWELL_7" = "Adios! Merci d'avoir choisi notre application!";
+"FAREWELL_8" = "À plus tard! Vos retours nous permettent de nous améliorer!";
+"FAREWELL_9" = "Prenez soin de vous! Votre satisfaction nous anime!";
+"FAREWELL_10" = "À plus tard! Votre satisfaction nous anime!";

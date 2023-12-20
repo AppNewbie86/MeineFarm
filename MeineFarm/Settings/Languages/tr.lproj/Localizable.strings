@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  MyFarm Turkish_Words  
+*/
+
+"Text1" = "Merhaba! Uygulamamıza hoş geldiniz!";
+"Text2" = "Benim Çiftliğim";
+"Text3" = "kayıt etmek";
+"Text4" = "Zaten bir hesabınız var.";
+"Text5" = "hızlı giriş yapmak";
+"Text6" = "Giriş yap";
+"Text7" = "Kaydol";
+
+
+"GREETING_6" = "Hey! Burada olmanız harika!";
+"GREETING_7" = "Selam! Uygulamamızın tadını çıkarın!";
+"GREETING_8" = "Merhaba! Sizi burada görmek güzel!";
+"GREETING_9" = "Merhaba! Uygulama ile rahatlayın!";
+"GREETING_10" = "Günaydın! Uygulamamızın sunduklarını keşfedin!";
+
+"FAREWELL_1" = "Hoşça kalın! Uygulamamızı kullandığınız için teşekkür ederiz!";
+"FAREWELL_2" = "Güle güle! Uygulamamızı kullanmanızı takdir ediyoruz!";
+"FAREWELL_3" = "Sonra görüşürüz! Bizimle zaman geçirdiğiniz için teşekkür ederiz!";
+"FAREWELL_4" = "Kendinize iyi bakın! Bizimle geçirdiğiniz zaman için teşekkürler!";
+"FAREWELL_5" = "Sonraki sefere kadar! Desteğiniz çok şey ifade ediyor!";
+"FAREWELL_6" = "Şimdilik hoşça kalın! Desteğiniz için minnettarız!";
+"FAREWELL_7" = "Hoşça kal! Uygulamamızı seçtiğiniz için teşekkür ederiz!";
+"FAREWELL_8" = "Görüşmek üzere! Varlığınız takdir edildi!";
+"FAREWELL_9" = "Görüşürüz! Geri bildiriminiz bizi daha iyi yapar!";
+"FAREWELL_10" = "Kolay gelsin! Memnuniyetiniz bizi yönlendiriyor!";
